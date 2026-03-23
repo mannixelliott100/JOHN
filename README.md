@@ -1,11 +1,17 @@
-<H1>JOHN</H1>
 <html>
+<head>
+    <title>STORY 1: THE RISE OF THE UFC AND MIXED MARTIAL ARTS IN GLASGOW</title>
+    <!-- CODA --
+    <style>
+  p {
+            font-size: 16px; /* A good readable size */
+            line-height: 1.5; /* Makes text easier to read by adding space between lines */
+            margin-bottom: 1em; /* Adds some space below each paragraph */
+            color: #444; /* A slightly softer black for readability */
+        }
+    </style>
+/head 
 <p>
-<body>
-<div class="flourish-embed flourish-photo-slider" data-src="visualisation/27293352"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/visualisation/27293352/thumbnail" width="100%" alt="photo-slider visualization" /></noscript></div>
-john cena is the goat
-<div class="flourish-embed" data-src="story/3563175"><script src="https://public.flourish.studio/resources/embed.js"></script><noscript><img src="https://public.flourish.studio/story/3563175/thumbnail" width="100%" alt="visualization" /></noscript></div>
-</p>
+<body></p>
 </body>
 </html>
-
