@@ -242,7 +242,7 @@ These gyms across Glasgow have had a 2.94% increase from 2023 as more quickly be
     </div>
 </div>
 
-<!-- SCRIPT -->
+
 <script src="https://public.flourish.studio/resources/embed.js"></script>
 <script>
 const observer = new IntersectionObserver(entries => {
