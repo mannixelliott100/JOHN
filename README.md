@@ -135,7 +135,7 @@ p {
 <div class="section white reveal">
     <div class="container">
         <h1 class="title">
-            STORY 1: THE RISE OF THE UFC AND MIXED MARTIAL ARTS IN GLASGOW
+            THE RISE OF THE UFC AND MIXED MARTIAL ARTS IN GLASGOW
         </h1>
     </div>
 </div>
